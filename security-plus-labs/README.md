@@ -1,7 +1,7 @@
-# Security Plus Labs
+# Security Plus
 
 ## Overview
-This repository contains hands-on labs and notes completed while studying for the Security Plus Labs. Focus is on core services, networking, and security best practices.
+This repository contains hands-on labs and notes completed while studying for the Security Plus. Focus is on core services, networking, and security best practices.
 
 ## Lab Contents
 - Sample labs are in the `/labs` folder
