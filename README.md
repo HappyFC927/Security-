@@ -100,10 +100,17 @@
   - Vendor Assessments
   - Supply Chain Security
 
-## How to Practice These Concepts
-- Recreate & Expand Each Map – Add tools, services, or threats related to each topic.
-- Hands-on Labs – Set up virtual networks using Cisco Packet Tracer or GNS3.
-- Flashcards & Quizzes – Reinforce key definitions and protocols.
-- Simulate Network Issues – Practice troubleshooting scenarios.
+## How to Practice with These Maps:
+- Recreate the Maps from Memory:
+Start with a blank sheet and try to recreate the map for a specific chapter. This will help you identify gaps in your understanding.
+- Expand the Maps:
+Add examples, tools, or real-world scenarios to each node. For instance, under "Malware," you could add "WannaCry" as an example of ransomware.
+- Quiz Yourself:
+Cover parts of the map and try to recall the missing details. For example, hide the "CIA Triad" subcategories and try to list them from memory.
+- Link Concepts Across Maps:
+Draw connections between chapters. For example, link "Incident Response" (Chapter 4) with "Risk Mitigation" (Chapter 5) to see how they interact.
+
+
+
 
 
